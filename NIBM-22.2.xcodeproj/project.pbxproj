@@ -15,6 +15,7 @@
 		4C4AAE7A2B651BB70074E373 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C4AAE792B651BB70074E373 /* MainView.swift */; };
 		4C4D38C52B6506D000834110 /* HomeViewEnv.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C4D38C42B6506D000834110 /* HomeViewEnv.swift */; };
 		4C4D38C72B65154200834110 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C4D38C62B65154200834110 /* ProfileView.swift */; };
+		D0A5CB242B7267AA004893EC /* FormView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0A5CB232B7267AA004893EC /* FormView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		4C4AAE792B651BB70074E373 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 		4C4D38C42B6506D000834110 /* HomeViewEnv.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewEnv.swift; sourceTree = "<group>"; };
 		4C4D38C62B65154200834110 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		D0A5CB232B7267AA004893EC /* FormView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				3782AC572B2B2CFD00D42614 /* Assets.xcassets */,
 				3782AC592B2B2CFD00D42614 /* Preview Content */,
 				4C4D38C42B6506D000834110 /* HomeViewEnv.swift */,
+				D0A5CB232B7267AA004893EC /* FormView.swift */,
 				4C4D38C62B65154200834110 /* ProfileView.swift */,
 				4C4AAE772B651AE00074E373 /* HomeViewModel.swift */,
 				4C4AAE792B651BB70074E373 /* MainView.swift */,
@@ -151,6 +154,7 @@
 			files = (
 				4C4D38C72B65154200834110 /* ProfileView.swift in Sources */,
 				4C4AAE7A2B651BB70074E373 /* MainView.swift in Sources */,
+				D0A5CB242B7267AA004893EC /* FormView.swift in Sources */,
 				4C4D38C52B6506D000834110 /* HomeViewEnv.swift in Sources */,
 				3782AC562B2B2CF900D42614 /* ContentView.swift in Sources */,
 				4C4AAE782B651AE00074E373 /* HomeViewModel.swift in Sources */,
